@@ -7,3 +7,16 @@
 #
 layout: home
 ---
+
+## Opinions/Topics - BLOG
+
+[My Resume]](./MattRichardsonResume.html)
+
+BLOG will hve Pages
+
+TOPICS will be listed as a topical Pages
+
+
+
+Topics table w/ Topics Pages
+BLogs
